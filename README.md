@@ -72,6 +72,3 @@ notebook or close your tab.**
 
 TODO: Remember to put your name and eid in the marked location at the top of the
 file. Push the updated files to the Github repository and submit URL to Canvas.
-
-#### Acknowledgement
-This assignment is adopted from [Nick Feamster](https://computernetworksbook.com/resources.html).
